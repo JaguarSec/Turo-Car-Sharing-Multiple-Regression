@@ -1,7 +1,5 @@
 # Turo-Car-Sharing---Multiple-Regression
 
-Description: Mult. Reg. Analysis performed on data from car sharing platform 'Turo' using R and a public data set representing operations in the state of Arizon of car features and additional metrics such as gas mileage and price.
-
 Objective/Question: 
 - Which of the several factors offer a meaningful impact on the final price of a trip?
 
