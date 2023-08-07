@@ -1,4 +1,6 @@
-# Turo-Car-Sharing-Multiple-Regression
+# Multiple-Regression Analysis
+
+Dataset: Turo-Car-Sharing
 
 Objective/Question: 
 - Which of the several factors offer a meaningful impact on the final price of a trip?
