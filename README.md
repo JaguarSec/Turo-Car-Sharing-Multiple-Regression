@@ -12,7 +12,7 @@ Hypothesis:
 - Most of the original impressions will be correct to varying degrees after eliminating outliers.
 
 Test Method:
-- >> Used IQR to identify outliers 
+- >> Used Inter-Quartile-Range (IQR) to identify outliers 
 - >> Removed Outliers and tripped down the number of categories by eliminating those that were not viable 
 - >> Measure the impact of each of the remaing variables individually
 - >> Next: Conduct Multiple Linear Regression on different models using a variation of subsets of the variables available 
